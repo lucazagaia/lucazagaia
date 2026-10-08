@@ -1,6 +1,6 @@
 # Hi, I'm Luca 👋
 
-I build AI agents that do real work, and the tooling that makes them reliable. Currently at **Concept Reply** in Munich, in AI & IoT consulting.
+I build AI agents that do real work, and the tooling that makes them reliable. Previously in AI & IoT consulting at Concept Reply in Munich, where I built an internal AI onboarding agent and co-created Skill++. Open to internships in industrial AI from November 2026.
 
 My way into AI came through engineering: a B.Sc. in Industrial Engineering from TU Berlin, and a bachelor's thesis on predictive maintenance for autonomous delivery robots.
 
